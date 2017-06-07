@@ -6,4 +6,4 @@ function hello(){
     console.time();
 }
 
-setTimeout(hello,1000)
+setTimeout(hello,1200)
