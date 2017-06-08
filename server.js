@@ -1,4 +1,4 @@
-var http = require('http');
+﻿var http = require('http');
 
 http.createServer(function (request, response) {
 
@@ -12,4 +12,4 @@ http.createServer(function (request, response) {
 }).listen(8888);
 
 // 终端打印如下信息
-console.log('Server running at http://127.0.0.1:8888/');
+console.log('Server running at http://127.0.0.1:8808/');
